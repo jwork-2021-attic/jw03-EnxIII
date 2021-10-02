@@ -33,7 +33,7 @@ public class Scene {
         String log = theGeezer.lineUp(line);
 
         BufferedWriter writer;
-        writer = new BufferedWriter(new FileWriter("result.txt"));
+        writer = new BufferedWriter(new FileWriter(sorter.getClass().getSimpleName()+"_result.txt"));
         writer.write(log);
         writer.flush();
         writer.close();
