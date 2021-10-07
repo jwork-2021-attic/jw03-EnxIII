@@ -63,6 +63,8 @@
     另一位同学的作品: [作者链接](https://github.com/jwork-2021/jw03-star20001)
 
     [![asciicast](https://asciinema.org/a/qygWlwCS1gImNGh7BDx5QOePZ.svg)](https://asciinema.org/a/qygWlwCS1gImNGh7BDx5QOePZ)
+    
+    (是正确的
 
 
 
